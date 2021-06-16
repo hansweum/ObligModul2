@@ -1,0 +1,122 @@
+body {
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+}
+
+#logo{
+    position:absolute;
+    left:30px;
+    top: 30px;
+    height: 150px;
+    }
+
+#header_image{
+    position:absolute;
+    margin-left: 35%;
+    top: 30px;
+    height: 150px;
+}
+
+#home{
+    height: 40px;
+    width: 40px;
+    margin-left: 80%;
+    
+  
+}
+
+#cart{
+    height: 40px;
+    width: 40px;
+    
+}
+
+#mail{
+    height: 40px;
+    width: 40px;
+}
+
+#loggInn{
+    height: 40px;  
+    width: 150px; 
+    margin-left: 80%;
+}
+
+#opprett{
+    height: 40px;
+    width: 150px;
+    margin-left: 80%;
+}
+            
+#form{
+    text-align: center;
+    margin: 0%;
+    padding-top: 160px;
+    height: 44px;
+        
+        
+    }
+    
+    
+.card{
+    
+        width: max-content;
+        text-align: center;
+        display: inline-block;
+        margin: 5px;
+        margin-top: 25%;
+        padding: 13px;
+       
+    }
+    
+.card img{
+        width: 200px;
+        height: 230px;
+        padding: 10px;  
+    }
+    
+    
+.container {
+        margin: 20px;
+        padding-top: 100px;
+        width: auto;
+      }
+
+.tooltip {
+        position: relative;
+        display: inline-block;
+      }
+
+.tooltip .tooltiptext {
+      visibility: hidden;
+      width: 120px;
+      background-color: lightgray;
+      text-align: center;
+      border-radius: 4px;
+      padding: 25px 25px;
+      opacity: 85%;
+      border: 1px solid gray;
+      
+      /* Position the tooltip */
+      position: absolute;
+      z-index: 1;
+    }
+    
+.tooltip:hover .tooltiptext {
+      visibility: visible;
+    }
+     
+#txt {
+    margin-top: 10%;
+    height: 20em;
+    width: 90em;
+    font-size: large;
+}
+
+#mtxt {
+    margin-top: 1%;
+}
+    
+    
+          
+    
